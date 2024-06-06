@@ -1,0 +1,17 @@
+# Build Artifacts
+*.o
+*.d
+*.a
+*.axf
+*.lst
+*.bin
+*.map
+
+# Python
+__pycache__
+
+# MacOSX
+*.DS_Store
+
+# VSCode
+.vscode
