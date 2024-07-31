@@ -17,7 +17,7 @@ This repository contains everything you need to get started with PixelGen, inclu
 ## Getting Started
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/yourusername/PixelGen.git
+   git clone https://github.com/weiser/PixelGen.git
    cd PixelGen
    ```
 
