@@ -29,3 +29,7 @@ The pruning technique is adapted from SparseGPT, as described in the paper:
 
 4. **Run the pruning script**:
     Use the provided script to prune the model. Modify the script to point to the downloaded model directory.
+
+4. **Dataset**:
+    The laion dataset label is stored in a Google Drive folder. You can download it from the following link:
+    [laion](https://drive.google.com/drive/u/1/folders/1bCU9JCJyxyfjjFZ3tAAjJQNVqxy2PKyG)

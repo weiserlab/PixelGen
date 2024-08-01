@@ -1,0 +1,17 @@
+pandas
+pillow
+requests
+numpy
+torch==2.0.1
+torchvision
+torchaudio
+transformers
+accelerate
+datasets
+huggingface_hub
+packaging
+tqdm
+diffusers
+wandb
+peft
+jupyter
