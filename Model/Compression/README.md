@@ -14,7 +14,7 @@ The pruning technique is adapted from SparseGPT, as described in the paper:
 ### Steps to Prune the Model
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/sparsegpt-pruning.git
+    git clone https://github.com/IST-DASLab/sparsegpt.git
     cd sparsegpt-pruning
     ```
 
