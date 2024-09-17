@@ -23,3 +23,6 @@ This repository contains everything you need to get started with PixelGen, inclu
 
 ## Contributing
 We welcome contributions from the community. Please fork the repository and create a pull request with your enhancements or bug fixes.
+
+## Funding
+This work was supported primarily through a grant from the NUS-NCS center, a startup grant, a MoE Tier 1 Grant, and an unrestricted gift from Google through their Research Scholar Program. All of these grants were administered through the National University of Singapore.
