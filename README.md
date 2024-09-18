@@ -5,7 +5,7 @@ Mixed-reality headsets offer new ways to perceive our environment. They employ v
 
 ## Demo
 Here is the link to the video from PixelGen Platform
-https://drive.google.com/drive/u/1/folders/1OAvdlgPtcOlOohsGQsvnd90kCAYUxAkT
+http://bit.ly/generated_video
 
 ## Team
 
