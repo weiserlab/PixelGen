@@ -18,7 +18,7 @@ Run the fourth block to acquire the Stable Diffusion V1.5 Model or indicate its 
 
 Execute the sixth block twice to download both the Canny Edge and Segmentation ControlNet V1 Models. The fifth block for LoRA download is optional.
 ![seg](../../assets/seg.png)
-![seg](../../assets/arch.png)
+
 
 Run the final block to launch the interface.
 
