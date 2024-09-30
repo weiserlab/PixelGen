@@ -27,7 +27,7 @@ This repository contains everything you need to get started with PixelGen, inclu
 - **AmbiqSDK**: Contains the driver code required to interface with the various sensors and microcontroller on the PixelGen platform.
 - **board**: Includes the schematics of the hardware components, detailing how the sensors, microcontroller, and transceivers are interconnected. It also provides the Gerber files needed for manufacturing the custom PixelGen board.
 ### Beta
-This repo contains pruning.ipynb which can compress stable diffusion 3 transformer with one-shot pruning (SparseGPT) and Tiny-SD which is a compressed stable diffusion v1.5 model with knowledge distillation. Note that the work is still in progress.
+This repo contains pruning.ipynb which can compress stable diffusion 3 transformer with one-shot pruning ([SparseGPT](https://arxiv.org/abs/2301.00774)) and Tiny-SD which is a compressed stable diffusion v1.5 model with knowledge distillation. Note that the work is still in progress.
 
 ## Getting Started
 1. **Clone the repository**: 
