@@ -9,9 +9,11 @@ Mixed-reality headsets offer new ways to perceive our environment. They employ v
 Here is the link to the video from PixelGen Platform
 http://bit.ly/generated_video
 
-## Team
-
 ## Publications
+[DemoAbstract: PixelGen: Rethinking Embedded Camera Systems for Mixed-Reality](https://ieeexplore.ieee.org/document/10577362)
+
+## Awards
+[IPSN'24 Best Demonstration Runner-Up award](https://ipsn.acm.org/2024/awards.html)
 
 ## Repository Contents
 This repository contains everything you need to get started with PixelGen, including scripts, hardware designs, and model compression tools.
