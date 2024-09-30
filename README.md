@@ -23,6 +23,9 @@ This repository contains everything you need to get started with PixelGen, inclu
 ### Pipeline
 - **fast_stable_diffusion_AUTOMATIC1111.ipynb**: This script runs the diffusion model on collected sensor data to generate high-resolution images.
 - **ControlNet**: This repo gives a quick guide to use controlnet with stable diffusion (either by canny edge detector or oneformer segmentation)
+### Script
+- **capture.py**: This script captures a low-res monochrome image using the PixelGen platform.
+- **fusion.py**: This script captures an image and simultaneously collect sensor data.
 ### Hardware
 - **AmbiqSDK**: Contains the driver code required to interface with the various sensors and microcontroller on the PixelGen platform.
 - **board**: Includes the schematics of the hardware components, detailing how the sensors, microcontroller, and transceivers are interconnected. It also provides the Gerber files needed for manufacturing the custom PixelGen board.
