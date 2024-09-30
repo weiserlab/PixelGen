@@ -10,7 +10,9 @@ Here is the link to the video from PixelGen Platform
 http://bit.ly/generated_video
 
 ## Publications
-[DemoAbstract: PixelGen: Rethinking Embedded Camera Systems for Mixed-Reality](https://ieeexplore.ieee.org/document/10577362)
+ImmerCom'24
+
+[IPSN'24 DemoAbstract: PixelGen: Rethinking Embedded Camera Systems for Mixed-Reality](https://ieeexplore.ieee.org/document/10577362)
 
 ## Awards
 [IPSN'24 Best Demonstration Runner-Up award](https://ipsn.acm.org/2024/awards.html)
@@ -18,12 +20,14 @@ http://bit.ly/generated_video
 ## Repository Contents
 This repository contains everything you need to get started with PixelGen, including scripts, hardware designs, and model compression tools.
 
-### Model
+### Pipeline
 - **fast_stable_diffusion_AUTOMATIC1111.ipynb**: This script runs the diffusion model on collected sensor data to generate high-resolution images.
-- **pruning.ipynb**: This script applies model pruning technique adapted from sparsegpt to compression Stable Diffusion 3 (Diffusion Transformer)
+- **ControlNet**: This repo gives a quick guide to use controlnet with stable diffusion (either by canny edge detector or oneformer segmentation)
 ### Hardware
 - **AmbiqSDK**: Contains the driver code required to interface with the various sensors and microcontroller on the PixelGen platform.
 - **board**: Includes the schematics of the hardware components, detailing how the sensors, microcontroller, and transceivers are interconnected. It also provides the Gerber files needed for manufacturing the custom PixelGen board.
+### Beta
+This repo contains pruning.ipynb which can compress stable diffusion 3 transformer with one-shot pruning (SparseGPT) and Tiny-SD which is a compressed stable diffusion v1.5 model with knowledge distillation. Note that the work is still in progress.
 
 ## Getting Started
 1. **Clone the repository**: 
