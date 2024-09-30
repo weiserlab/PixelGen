@@ -12,4 +12,4 @@ OneFormer will label what kind of objects are in the reference image and the sta
 ![seg](../../assets/OneFormer.png)
 
 Canny Edge Detector extract edge in the camera input based on the threshold.
-![canny](../../assets/canny.png)
+![canny](../../assets/Canny_Edge.png)
