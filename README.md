@@ -67,6 +67,11 @@ This repo contains pruning.ipynb which can compress stable diffusion 3 transform
    git clone https://github.com/weiserlab/PixelGen.git
    cd PixelGen
    ```
+## Poster
+This shows a high level overview of **PixelGen**.
+<p>
+  <img src="/assets/IPSN_2024_PixelGen_Demo.png" width="1050">
+</p>
 
 ## Contributing
 We welcome contributions from the community. Please fork the repository and create a pull request with your enhancements or bug fixes.
@@ -83,9 +88,3 @@ Feel free to contact us at [`dhairya@u.nus.edu`](mailto:dhairya@u.nus.edu) or [`
 
 ## Funding
 This work was supported primarily through a grant from the NUS-NCS center, a startup grant, a MoE Tier 1 Grant, and an unrestricted gift from Google through their Research Scholar Program. All of these grants were administered through the National University of Singapore.
-
-## Poster
-This shows a high level overview of **PixelGen**.
-<p>
-  <img src="/assets/IPSN_2024_PixelGen_Demo.png" width="1050">
-</p>
