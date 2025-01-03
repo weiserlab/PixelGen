@@ -10,9 +10,27 @@ View what **`PixelGen`** can do! Here are a stream of images generated from Pixe
 http://bit.ly/generated_video
 
 ## Publications
-1. [**ImmerCom'24**](https://immercom.github.io/program.html) - *PixelGen: Rethinking Embedded Cameras for Mixed-Reality*
+1. [**ImmerCom'24**](https://dl.acm.org/doi/10.1145/3636534.3696216) - *PixelGen: Rethinking Embedded Cameras for Mixed-Reality*
    > The 2nd ACM Workshop on Mobile Immersive Computing, Networking, and Systems (**ImmerCom**) was held in conjunction with **ACM MobiCom 2024**
-   
+   ```
+   @inproceedings{10.1145/3636534.3696216,
+      author = {Li, Kunjun and Gulati, Manoj and Shah, Dhairya and Waskito, Steven and Chakrabarty, Shantanu and Varshney, Ambuj},
+      title = {PixelGen: Rethinking Embedded Cameras for Mixed-Reality},
+      year = {2024},
+      isbn = {9798400704895},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3636534.3696216},
+      doi = {10.1145/3636534.3696216},
+      abstract = {Mixed-reality headsets offer new ways to perceive our environment. They employ visible spectrum cameras to capture and display the environment on screens in front of the user's eyes. However, these cameras lead to limitations. Firstly, they capture only a partial view of the environment. They are positioned to capture whatever is in front of the user, thus creating blind spots during complete immersion and failing to detect events outside the restricted field of view. Secondly, they capture only visible light fields, ignoring other fields like acoustics and radio that are also present in the environment. Finally, these power-hungry cameras rapidly deplete the mixed-reality headset's battery. We introduce PixelGen to rethink embedded cameras for mixed-reality headsets. PixelGen proposes to decouple cameras from the mixed-reality headset and balance resolution and fidelity to minimize the power consumption. It employs low-resolution, monochrome image sensors and environmental sensors to capture the surroundings around the headset. This approach reduces the system's communication bandwidth and power consumption. A transformer-based language and image model process this information to overcome resolution trade-offs, thus generating a higher-resolution representation of the environment. We present initial experiments that show PixelGen's viability.},
+      booktitle = {Proceedings of the 30th Annual International Conference on Mobile Computing and Networking},
+      pages = {2128–2135},
+      numpages = {8},
+      keywords = {embedded systems, networking, large language models},
+      location = {Washington D.C., DC, USA},
+      series = {ACM MobiCom '24}
+   }
+   ```
 3. [**IPSN'24 Demo**](https://ieeexplore.ieee.org/document/10577362) - *PixelGen: Rethinking Embedded Camera Systems for Mixed-Reality*
    
    > PixelGen wins [*Best Demonstration Runner-Up* award](https://ipsn.acm.org/2024/awards.html) at IPSN'24.
